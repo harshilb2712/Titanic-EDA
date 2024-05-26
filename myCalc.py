@@ -19,9 +19,5 @@ def power(a, b):
     
 pi = 3.14
 e = 2.7
-
-def some():
-    print('hello')
     
 print('This is a module')
-some()
