@@ -14,9 +14,6 @@ def div(a, b):
 def remainder(a, b):
     return a % b
 
-def power(a, b):
-    return a ** b
-
 def flooring(a):
     import math
     return math.floor(a)
