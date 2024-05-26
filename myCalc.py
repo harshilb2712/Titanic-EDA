@@ -11,6 +11,9 @@ def div(a, b):
     if b == 0: return 'Division not allowed'
     else     : return a / b
     
+def remainder(a, b):
+    return a % b
+    
 pi = 3.14
 e = 2.7
 
