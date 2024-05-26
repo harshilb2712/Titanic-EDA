@@ -21,3 +21,6 @@ pi = 3.14
 e = 2.7
     
 print('This is a module')
+
+def something():
+    print('Something')
