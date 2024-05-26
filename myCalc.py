@@ -16,6 +16,10 @@ def remainder(a, b):
 
 def power(a, b):
     return a ** b
+
+def flooring(a):
+    import math
+    return math.floor(a)
     
 pi = 3.14
 e = 2.7
