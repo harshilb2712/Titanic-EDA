@@ -13,6 +13,9 @@ def div(a, b):
     
 def remainder(a, b):
     return a % b
+
+def power(a, b):
+    return a ** b
     
 pi = 3.14
 e = 2.7
